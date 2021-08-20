@@ -1,0 +1,446 @@
+/*
+CSS Credit: http://www.templatemo.com/
+*/
+
+/* 
+Music Template 
+http://www.templatemo.com/preview/templatemo_047_music 
+*/
+body {
+	margin:0;
+	padding:0;
+	line-height: 1.5em;
+	font-family:  Helvetica, Arial, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	background: #FFFFFF;
+}
+.ttt{
+	color: #fff;
+}
+.banner_text{
+	font-size: 18px;
+    font-weight: bold;
+}
+.header-img {
+width: 263px;
+height: 111px;
+border: 1px solid #6c5b4c;
+}
+
+.header-text {
+	font-size: 60px;
+	margin-left: 101px;
+}
+
+h1 {
+	margin: 0 0 25px 0;
+    padding: 10px 0 10px 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    background: #000000;
+    border-bottom: 3px solid #b4a08a;
+}
+
+h2 {
+	width: 235px;
+	height: 35px;
+	padding: 15px 0 0 35px;
+	margin: 0 0 25px -10px;
+	font-size: 16px;
+	color: #6c5b4c;
+	background: url(images/left_heading_background.gif) no-repeat;
+}
+
+h3 {
+	color: #d3a401;
+	font-size: 27px;
+	width: 356px;
+}
+
+h4 {
+	margin: 0 0 5px 0;
+	padding: 0;
+	font-weight: bold;
+	font-size: 12px;
+	color: #999999;	
+}
+
+.rantsection {
+	height: 13px;
+	margin-bottom: 10px;
+}
+
+.rantsection img {
+	float: left;
+	height: 13px;
+	width: 13px;
+	border: 0px;
+	margin-right: 5px;
+}
+
+a:link, a:visited { color: #999999; text-decoration: none;} 
+a:active, a:hover { color: #999999; text-decoration: underline;}
+
+.more_button a{
+	clear: both;
+	text-align: center;
+	display: block;
+	width: 60px;
+	padding: 1px 0;
+	margin-bottom: 5px; 
+	background: #6c5b4c;
+	border-bottom: 1px solid #a59180;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.download_button a{
+	float: right;
+	text-align: center;
+	width: 65px;
+	padding: 1px 0;
+	background: #6c5b4c;
+	border-bottom: 1px solid #a59180;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+img {
+	border: 1px solid #6c5b4c;
+	width: 192px;
+	height: 178px;
+}
+
+
+/* ----- Form ----- */
+.form_row{
+	margin-bottom: 3px;
+}
+
+form{
+	margin: 0;
+	padding: 0;
+	text-align: right;	
+}
+
+label {
+	margin-right: 10px;
+}
+
+input{
+	width: 130px;
+	height: 18px;
+	padding: 1px 0;
+	line-height: normal;
+	color: #99836c;
+	border: 1px solid #99836c;
+	background: #400a0a;
+}
+select{
+	color: #99836c;
+}
+
+.button{
+	width: 60px;
+	line-height: normal;
+	margin: 0;
+	height: 23px;
+}
+/* End of Form */
+
+
+#templatemo_container {
+	margin: 0px auto;
+	width: 970px;
+	background: url(images/main_background.gif) repeat-y;
+}
+
+/*------------ Header --------------- */
+
+#templatemo_header {
+	float: left;
+	width: 900px;
+	padding: 0 35px;
+	margin: 15px 0 10px 0;
+}
+
+#templatemo_title {
+	float: left;
+	width: 300px;
+}
+
+#templatemo_sitetitle {
+	margin-bottom: 21px;
+}
+#templatemo_sitetitle span{
+	font-weight: normal;
+	color: #FFFFFF;
+}
+
+#templatemo_login {
+	float: right;
+	margin-top: 25px;
+	width: 300px;
+}
+/* -------------- End of Header------------------ */
+
+/* --------- Banner ---------- */
+#templatemo_banner-3{
+	clear: both;
+    margin-left: 10px;
+    width: 950px;
+    height: 243px;
+	background: url(images/banner-3.jpg) no-repeat;
+}#templatemo_banner-3{
+	clear: both;
+    margin-left: 10px;
+    width: 950px;
+    height: 243px;
+	background: url(images/banner-3.jpeg) no-repeat;
+}
+#templatemo_banner-2{
+	clear: both;
+    margin-left: 10px;
+    width: 950px;
+    height: 243px;
+	background: url(images/banner-2.jpeg) no-repeat;
+}
+#templatemo_banner {
+	clear: both;
+    margin-left: 10px;
+    width: 950px;
+    height: 227px;
+	background: url(images/banner-1.png) no-repeat;
+}
+
+#templatemo_banner_text {
+	padding: 52px 0 0 309px;
+	width: 550px;
+}
+
+#banner_title{
+	margin: 0 0 25px 0;
+	padding: 0;
+	font-size: 24px;
+	font-weight: bold;
+	color: black;
+}
+
+#templatemo_banner_text p{
+	margin: 0 0 25px 0;
+	padding: 0;
+}
+
+/* --------- End of Banner ---------- */
+
+/*--- Menu ---*/
+#templatemo_menu{
+	float: left;
+	width: 970px;
+	height: 51px;
+	background: url(images/menu_background.gif) no-repeat;
+}
+
+#templatemo_menu ul {
+	float: left;
+	margin: 0;
+	padding: 10px 0 0 40px;
+	list-style: none;
+}
+
+#templatemo_menu ul li{
+	display: inline;
+}
+
+#templatemo_menu ul li a{
+	float: left;
+	width: 146px;
+	height: 20px;
+	margin-top: 10px;
+	padding: 0;
+	font-size: 1.1em;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+	border-right: 1px solid #CCCCCC;
+}
+
+#templatemo_menu ul li .lastmenu{
+	border-right: none;
+}
+
+#templatemo_menu li a:hover, #templatemo_menu li .current{
+	color: #fff;
+    padding-left: 0px;}
+/*--- End of Menu ---*/
+
+/*--- Content ---*/
+#templatemo_content {
+	float: left;
+	margin: 0;
+	padding: 0 10px;
+	width: 950px;
+}
+
+/*--- Left Column---*/
+#templatemo_left_column {
+	float: left;
+	margin: 20px 10px 0 0;
+	padding: 0px;
+	width: 235px;
+}
+
+.left_col_box {
+	margin: 0 0 25px 25px;
+	color: #AAA;	
+}
+
+.blog_box {
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	border-bottom: 4px solid #fff;
+}
+
+.blog_box h3 a{
+	font-size: 15px;
+	color: #d3a401;	
+	
+}
+
+.blog_box span{
+	color: #99836c;
+}
+/*--- End of Left Column---*/
+
+/*--- Right Column---*/
+#templatemo_right_column {
+	float: right;
+	margin: 25px 25px 0 0;
+	padding: 0;
+	width: 650px;
+}
+
+.templatemo_right_panel_fullwidth {
+	float: left;
+	width: 650px;
+	padding: 0 0 25px 0;
+}
+
+.templatemo_right_panel_fullwidth img{
+	float: left;
+	margin: 3px 10px 0 0;
+}
+
+.templatemo_right_panel_fullwidth_content {
+	float: left;
+	width: 620px;
+	padding: 0 15px 25px 15px;
+}
+
+.templatemo_right_panel_fullwidth_content p{
+	text-align: justify;
+	font-size: 14px;
+}
+
+#new_released_section {
+	float: left;
+	width: 650px;
+	margin: 0 0 30px 0;
+}
+
+.new_released_box {
+	float: left;
+	width: 180px;
+	margin: 0 10px 0 15px;	
+}
+
+.new_released_box img{
+	margin-bottom: 5px;
+}
+
+#news_section {
+	float: left;
+	width: 310px;
+	margin: 0 25px 0 0;
+}
+
+.news_box {
+	float: left;
+	width: 280px;
+	margin: 0 15px 25px 15px;
+}
+
+.news_box img{
+	float: left;
+    height: 103px;
+    width: 195px;
+    margin: -3px 8px -1px -16px;
+    border: 1px solid #333333;
+}
+
+.news_box p{
+	margin: 0;
+	padding: 0;
+	font-size: 17px;
+}
+
+#topdownload_section {
+	float: right;
+	width: 300px;
+	padding: 0;
+	margin: 0;
+	background: #99836c;
+}
+
+.topdownload_box {
+	float: left;
+	width: 270px;
+	padding-bottom: 5px;
+	margin: 0 15px 10px 15px;
+	color: #24211d;
+	font-weight: bold;
+	border-bottom: 1px solid #6b5946;
+	
+}
+
+* html .topdownload_box {
+	margin: 0 15px 10px 7px;
+}
+
+.topdownload_box span{
+	font-weight: normal;
+	margin-left: 20px;
+}
+
+.title_singer{
+	float: left;
+	width: 204px;
+}
+/*--- End of Right Column---*/
+/*--- End of Content ---*/
+
+/* ----- Footer ----- */
+#templatemo_footer {
+	clear: both;
+	padding: 15px 0;
+	width: 950px;
+	margin: 0 10px;
+	text-align: center;
+	color: #000000;
+	background: #6c5b4c;
+	text-align: center;
+}
+
+#templatemo_footer a{
+	color: #000000;
+}
+
+#templatemo_footer a:hover{
+	color: #cccc66;
+}
+/* ----- End of Footer ----- */
